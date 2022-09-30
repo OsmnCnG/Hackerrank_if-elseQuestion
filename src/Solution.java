@@ -17,9 +17,6 @@ public class Solution {
 
 
         int N;
-
-
-
         //System.out.println("Enter Integer n:");
         N = keyboard.nextInt();
         keyboard.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
